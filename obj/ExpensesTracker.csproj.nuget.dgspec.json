@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vincenzo.scalcione\\ExpensesTracker\\ExpensesTracker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vincenzo.scalcione\\ExpensesTracker\\ExpensesTracker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vincenzo.scalcione\\ExpensesTracker\\ExpensesTracker.csproj",
+        "projectName": "ExpensesTracker",
+        "projectPath": "C:\\Users\\vincenzo.scalcione\\ExpensesTracker\\ExpensesTracker.csproj",
+        "packagesPath": "C:\\Users\\vincenzo.scalcione\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vincenzo.scalcione\\ExpensesTracker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vincenzo.scalcione\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
